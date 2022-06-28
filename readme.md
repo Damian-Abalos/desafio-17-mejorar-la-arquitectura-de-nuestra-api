@@ -1,1 +1,2 @@
--Iniciar el servidor con el comando npm start
+-Instalar dependencias con npm i
+-Iniciar el servidor con npm start
